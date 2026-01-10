@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Env / secrets
+.env
+.env.*
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
